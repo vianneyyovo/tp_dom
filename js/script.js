@@ -1,0 +1,1 @@
+document.getElementById("text").innerHTML = "My first set propriety";
