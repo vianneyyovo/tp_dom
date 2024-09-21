@@ -1,6 +1,8 @@
-.nav {
+.header {
     text-align: center;
-    display: flex;
+    background-color: #83aeee;
+    color: white;
+    padding: 5px;
 }
 
 .components {
